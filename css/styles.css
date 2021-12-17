@@ -124,6 +124,10 @@ hr {
   color: white;
 }
 
+.research {
+  padding-bottom: 2rem;
+}
+
 hr:not([size]) {
   height: 1px;
 }
